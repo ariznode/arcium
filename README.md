@@ -1,6 +1,7 @@
 ## Hardware Recruitmens
 - RAM: 16GB
 - CPU: 8
+  
 
 ## Step 0: Install Dependencies
 
